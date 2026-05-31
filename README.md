@@ -1,5 +1,16 @@
 # 💫 Hi 👋, I'm Prerna Kune
 
+### Aspiring Data & Business Analyst | BBA Graduate
+
+Welcome to my GitHub space! I bridge the gap between business strategy and data-driven insights. With a solid foundation in Business Administration and a passion for data analytics, I love turning raw numbers into actionable business decisions.
+
+---
+
+### 🚀 About Me
+- 🎓 **Education:** Final year BBA student specializing in Finance.
+- 📊 **What I Do:** Build interactive dashboards, optimize SQL queries, and perform statistical data analysis.
+- 📍 **Location:** Ahmedabad, India
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prerna Kune) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prernakune01@gmail.com) 
 
