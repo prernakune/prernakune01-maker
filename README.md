@@ -24,11 +24,11 @@ Welcome to my GitHub space! I bridge the gap between business strategy and data-
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prernakune01-maker&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prernakune01-maker&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=prernakune&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prernakune&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prernakune01&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=prernakune01-maker&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=prernakune01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
